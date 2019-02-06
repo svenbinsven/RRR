@@ -1,0 +1,21 @@
+economy
+US
+Euro
+China
+Japan
+UK
+India
+Brazil
+Russia
+Canada
+South Korea
+Australia
+Mexico
+Indonesia
+Turkey
+Saudi Arabia
+Switzerland
+Argentina
+Taiwan
+Sweden
+Poland
